@@ -1,4 +1,6 @@
 
+/** TEST 1 SWIFT */
+
 app (void v) hostname()
 {
   "hostname" ;
