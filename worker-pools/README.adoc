@@ -1,0 +1,13 @@
+= Worker Pools
+
+Start on worker pools on Theta.
+
+== Quick start
+
+----
+$ ./test-1-submit.sh
+----
+
+The `swift-t` command in that script will block until the Cobalt job completes.
+
+The output is in turbine-output/output.txt .
